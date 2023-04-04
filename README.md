@@ -1,9 +1,9 @@
 ### Prazer, pode me chamar de Rafael👋
 
 - 🔭 Atualmente trabalho como desenvolvedor mobile com a linguagem FLUTTER
-- 🌱 Estudando Sistema de Informação pela universidade Anhembi Morumbi
-- 👯 I’m looking to collaborate on ...
+- 📖 Estudando Sistema de Informação pela universidade Anhembi Morumbi
 - 😄 Pronouns: ele/dele
+- 🐶 Pai de quatro dogs => Lory, Lord, Lady & Levi
 
 <div>
 <a href="https://github.com/PauloRafaelSousaAlves">
